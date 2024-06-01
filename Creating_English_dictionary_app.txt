@@ -1,0 +1,20 @@
+Creating English dictionary app
+
+<status>
+there are no free api key so need to reconsider
+
+<use case>
+put a english word
+
+<library>
+google.generativeai 
+- api key
+->need google account
+
+vertexai
+ - project id
+ - region
+->need google cloud
+
+<ref>
+https://cloud.google.com/vertex-ai/generative-ai/docs/migrate/migrate-google-ai?hl=ja
